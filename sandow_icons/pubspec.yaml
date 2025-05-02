@@ -1,0 +1,39 @@
+name: sandow_icons
+description: "Sandow icons is from strange icons sandow icon pack with close to 500 regular icons in solid and monotone styles."
+version: 0.0.1
+homepage: https://github.com/CoderNamedHendrick/sandow_icons
+repository: https://github.com/CoderNamedHendrick/sandow_icons
+topics:
+  - icon-packs
+  - icons
+  - sandow-icons
+  - strange-icons
+
+screenshots:
+  - description: 'rendered icons example'
+    path: ss/example.png
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+
+flutter:
+
+  fonts:
+    - family: sandow_solid
+      fonts:
+        - asset: fonts/sandow_solid.ttf
+
+    - family: sandow_monotone
+      fonts:
+        - asset: fonts/sandow_monotone.ttf
