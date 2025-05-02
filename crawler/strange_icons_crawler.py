@@ -92,10 +92,10 @@ class StrangeIconsCrawler:
         return icons
 
     """
-    Downloads the given icon
+    Retrieves icon download information, url, directory and file name
     """
 
-    def download_icon(self, icon: WebElement) -> None:
+    def process_downloadable_icons(self, icon: WebElement) -> List[Tuple[str, str, str]]:
         actions = ActionChains(self.driver)
         actions.scroll_to_element(icon).perform()
 
@@ -107,16 +107,20 @@ class StrangeIconsCrawler:
 
         images = popup_elem.find_elements(By.TAG_NAME, "img")
 
+        icons: List[Tuple[str, str, str]] = []
+
         for image in images:
             if image.get_property("alt") == icon.text:
-                download_svg_file(image.get_property("src"), f"/{self._i_pack}/{self._i_style}", icon.text)
+                icons.append((image.get_property("src"), f"/{self._i_pack}/{self._i_style}", icon.text))
                 popup_elem.find_element(By.CLASS_NAME, "p-2").click()  # closes the download popup
-                print(f"Successfully downloaded {self._i_pack}-{self._i_style} {icon.text}")
                 break
+
+        return icons
 
     """
     Dispose crawler
     """
+
     def dispose(self):
         self.driver.quit()
         self.driver = None
