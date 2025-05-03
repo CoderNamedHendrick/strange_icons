@@ -82,3 +82,4 @@ Pull request are also welcome.
 <a href="https://x.com/H3ndrick_"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60" alt="x handle"></a>
 <a href="https://www.linkedin.com/in/sebastine-odeh-1081a318b/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60" alt="linkedIn handle"></a>
 <a href="https://medium.com/@sebastinesoacatp"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true" width="60" alt="medium handle"></a>
+</p>

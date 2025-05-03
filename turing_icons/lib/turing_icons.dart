@@ -1,5 +1,4 @@
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+library;
+
+export 'src/turing_solid_icons.dart';
+export 'src/turing_monotone_icons.dart';
