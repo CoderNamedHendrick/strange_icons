@@ -1,8 +1,9 @@
 name: sandow_icons
 description: "Sandow icons is from strange icons sandow icon pack with close to 500 regular icons in solid and monotone styles."
 version: 0.0.2
-homepage: https://github.com/CoderNamedHendrick/sandow_icons
-repository: https://github.com/CoderNamedHendrick/sandow_icons
+homepage: https://github.com/CoderNamedHendrick/strange_icons/tree/main/sandow_icons
+repository: https://github.com/CoderNamedHendrick/strange_icons/tree/main/turing_icons
+
 topics:
   - icon-packs
   - icons

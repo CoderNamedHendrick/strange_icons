@@ -1,7 +1,19 @@
 name: strange_icons
 description: "Strange icon pack"
-version: 0.0.1-dev
-homepage:
+version: 0.0.1
+homepage: https://github.com/CoderNamedHendrick/strange_icons/tree/main/icon_pack
+repository: https://github.com/CoderNamedHendrick/strange_icons/tree/main/icon_pack
+
+topics:
+  - icon-packs
+  - icons
+  - sandow-icons
+  - asklepios-icons
+  - freud-icons
+  - nightingale-icons
+  - osler-icons
+  - turing-icons
+  - strange-icons
 
 environment:
   sdk: ^3.7.2
@@ -26,8 +38,4 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^5.0.0
 
-# For information on the generic Dart part of this file, see the
-# following page: https://dart.dev/tools/pub/pubspec
-
-# The following section is specific to Flutter packages.
 flutter:
