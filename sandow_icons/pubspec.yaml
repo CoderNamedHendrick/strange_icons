@@ -11,7 +11,7 @@ topics:
 
 screenshots:
   - description: 'rendered icons example'
-    path: ss/example.png
+    path: ss/img.png
 
 environment:
   sdk: '>=3.0.0 <4.0.0'

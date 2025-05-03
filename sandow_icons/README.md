@@ -29,6 +29,8 @@ Update dependencies of your pubspec.yaml, add the following line
 sandow_icons: 
 ```
 
+or `flutter pub add sandow_icons` from your terminal
+
 ## 🏗️ Usage
 
 ```dart
@@ -60,7 +62,7 @@ View the flutter app in the `example` directory
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/CoderNamedHendrick/sandow_icons/master/ss/example.png" alt="example screenshot">
+<img src="ss/img.png" alt="example screenshot">
 
 ## 🐛 Bugs/Requests
 

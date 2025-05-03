@@ -1,3 +1,3 @@
-## 0.0.1-dev
+## 0.0.1
 
-* icon pack in development
+* Osler icons initial release 
