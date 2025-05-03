@@ -1,5 +1,4 @@
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+library;
+
+export 'src/asklepios_monotone_icons.dart';
+export 'src/asklepios_solid_icons.dart';
