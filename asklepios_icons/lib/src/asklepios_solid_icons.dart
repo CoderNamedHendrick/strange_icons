@@ -1,10 +1,3 @@
-// Place fonts/asklepios_solid_icons.ttf in your fonts/ directory and
-// add the following to your pubspec.yaml
-// flutter:
-//   fonts:
-//    - family: asklepios_solid_icons
-//      fonts:
-//       - asset: fonts/asklepios_solid_icons.ttf
 import 'package:flutter/widgets.dart';
 
 class AsklepiosSolidIcons {

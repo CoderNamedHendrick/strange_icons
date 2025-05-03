@@ -1,8 +1,3 @@
-// Place fonts/asklepios_monotone.ttf in your fonts/ directory and
-// add the following to your pubspec.yaml
-// flutter:
-//   fonts:
-//
 import 'package:flutter/widgets.dart';
 
 class AsklepiosMonotoneIcons {

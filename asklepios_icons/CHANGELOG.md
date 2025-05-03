@@ -1,4 +1,4 @@
-## 1.0.0
+## 0.0.1
 
 * first release of asklepios icons 
 
