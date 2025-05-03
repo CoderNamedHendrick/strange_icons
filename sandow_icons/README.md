@@ -12,9 +12,9 @@ and the Flutter guide for
 -->
 
 [![pub package](https://img.shields.io/pub/v/sandow_icons.svg?color=success&style=flat-square)](https://pub.dartlang.org/packages/sandow_icons)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-success.svg?style=flat-square)](https://github.com/CoderNamedHendrick/sandow_icons/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-success.svg?style=flat-square)](https://github.com/CoderNamedHendrick/strange_icons/pulls)
 
-# Sandow
+# Sandow Icons
 
 Sandow icons is from strange icons sandow icon pack with close to 500 regular icons in solid and
 monotone styles.

@@ -11,8 +11,8 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/to/develop-packages).
 -->
 
-[![pub package](https://img.shields.io/pub/v/sandow_icons.svg?color=success&style=flat-square)](https://pub.dartlang.org/packages/sandow_icons)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-success.svg?style=flat-square)](https://github.com/CoderNamedHendrick/sandow_icons/pulls)
+[![pub package](https://img.shields.io/pub/v/sandow_icons.svg?color=success&style=flat-square)](https://pub.dartlang.org/packages/nightingale_icons)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-success.svg?style=flat-square)](https://github.com/CoderNamedHendrick/strange_icons/pulls)
 
 # Nightingale Icons
 
@@ -30,7 +30,6 @@ nightingale_icons:
 ```
 
 or `flutter pub add nightingale_icons` from your terminal
-
 
 ## 🏗️ Usage
 
@@ -62,6 +61,7 @@ class IconWidget extends StatelessWidget {
 View the flutter app in the `example` directory
 
 ## Screenshot
+
 <img src="ss/img.png"" alt="example screenshot">
 
 ## 🐛 Bugs/Requests
