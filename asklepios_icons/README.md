@@ -29,7 +29,7 @@ Update dependencies of your pubspec.yaml, and add the following line
 asklepios_icons: 
 ```
 
-or flutter pub add asklepios_icons from your terminal
+or `flutter pub add asklepios_icons` from your terminal
 
 ## 🏗️ Usage
 

@@ -29,7 +29,7 @@ Update dependencies of your pubspec.yaml, and add the following line
 freud_icons: 
 ```
 
-or flutter pub add freud_icons from your terminal
+or `flutter pub add freud_icons` from your terminal
 
 ## 🏗️ Usage
 
