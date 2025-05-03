@@ -17,17 +17,16 @@ environment:
   sdk: '>=3.0.0 <4.0.0'
   flutter: ">=1.17.0"
 
-define: &packs_version 0.0.2
 
 dependencies:
   flutter:
     sdk: flutter
 
-  asklepios_icons: *packs_version
-  freud_icons: *packs_version
-  nightingale_icons: *packs_version
-  osler_icons: *packs_version
-  sandow_icons: *packs_version
+  asklepios_icons: 0.0.2
+  freud_icons: 0.0.2
+  nightingale_icons: 0.0.2
+  osler_icons: 0.0.2
+  sandow_icons: 0.0.2
   turing_icons: 0.0.3
 
 dev_dependencies:
