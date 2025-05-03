@@ -1,41 +1,36 @@
 name: strange_icons
-description: "Strange icon pack"
-version: 0.0.1
+description: "Strange Icons pack with 6 icons sets containing over 3000 icons in monotone and solid styles."
+version: 0.0.2
 homepage: https://github.com/CoderNamedHendrick/strange_icons/tree/main/icon_pack
 repository: https://github.com/CoderNamedHendrick/strange_icons/tree/main/icon_pack
 
 topics:
+  - strange-icons
   - icon-packs
   - icons
-  - sandow-icons
-  - asklepios-icons
-  - freud-icons
-  - nightingale-icons
-  - osler-icons
-  - turing-icons
-  - strange-icons
+
+screenshots:
+  - description: 'rendered icons example'
+    path: ss/img.png
 
 environment:
-  sdk: ^3.7.2
+  sdk: '>=3.0.0 <4.0.0'
   flutter: ">=1.17.0"
+
+define: &packs_version 0.0.2
 
 dependencies:
   flutter:
     sdk: flutter
 
-#  freud_icons: ^0.0.1-dev
-#
-#  nightingale_icons: ^0.0.1-dev
-#
-#  osler_icons: ^0.0.1-dev
-#
-#  sandow_icons: ^1.0.0
-#
-#  turing_icons: ^0.0.1-dev
+  asklepios_icons: *packs_version
+  freud_icons: *packs_version
+  nightingale_icons: *packs_version
+  osler_icons: *packs_version
+  sandow_icons: *packs_version
+  turing_icons: 0.0.3
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
-
-flutter:

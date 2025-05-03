@@ -10,6 +10,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+  strange_icons:
+    path: ../
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

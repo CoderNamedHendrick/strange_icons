@@ -28,7 +28,7 @@ class MainApp extends StatelessWidget {
         appBar: AppBar(
           centerTitle: false,
           backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-          title: Text('Osler Icons Demo'),
+          title: Text('Turing Icons Demo'),
         ),
         body: GridView.builder(
           itemCount: icons.length,
